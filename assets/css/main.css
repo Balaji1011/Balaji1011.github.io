@@ -2342,7 +2342,7 @@ section .hero {
 .contact .contact-sidebar .connect-section .social-links {
   display: flex;
   gap: 15px;
-  margin-left: 33.5%;
+  justify-content: center;
   
 }
 
